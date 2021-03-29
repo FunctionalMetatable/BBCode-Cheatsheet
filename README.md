@@ -36,7 +36,7 @@ would become ~~This text is crossed out~~.
 ## 2. Things from other sites
 
 ### 2a. Images
-To use images in the Scratch Forums, you need to upload your image to an approved image host, a list of them are below.
+To use images in the Scratch Forums, you need to upload your image to an approved image host, a list of them are below. You also need to be a Scratcher.
 
 > [photobucket.com](//photobucket.com) (costs money; has a free plan of up to 250 images with a watermark)
 
@@ -59,3 +59,22 @@ To use images in the Scratch Forums, you need to upload your image to an approve
 > [scratch-wiki.info](//scratch-wiki.info) (This works with all language subdomains, e.g. en.scratch-wiki.info)
 
 > [_source_](https://en.scratch-wiki.info/wiki/Image_Hosting) from the scratch wiki
+
+To make this easier, you can use this [image uploading bookmarklet](//functionalmetatable.github.io/random/forums-image-uploader) to make things easier.
+
+The tag:
+
+```
+[img]<your image link>[/img]
+```
+would show the image the link has.
+
+### 2b. Links
+You can link things to other websites in the forums. The tag to do this is:
+
+```
+[url=functionalmetatable.github.io]My GitHub Page
+```
+would become [My GitHub Page](//functionalmetatable.github.io)
+
+##
