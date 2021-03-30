@@ -36,7 +36,7 @@ Example:
 ```
 would become ~~This text is crossed out~~.
 
-## 2. Things from other sites
+## 2. External Sites
 
 ### 2a. Images
 To use images in the Scratch Forums, you need to upload your image to an approved image host, a list of them are below. You also need to be a Scratcher.
@@ -80,10 +80,10 @@ You can link things to other websites in the forums. The tag to do this is:
 ```
 would become [My GitHub Page](//functionalmetatable.github.io)
 
-### 3b. Google, Wikipedia and Wiki Tags.
-_credit to [Basic88](https://scratch.mit.edu/users/Basic88) for these tags_
 
-#### 3b1. Google Tags
+_credit to [Basic88](https://scratch.mit.edu/users/Basic88) for the below tags_
+
+#### 2c1. Google Tags
 You can use the [google][/google] tag to link to a google search. The text between the two tags will link to the word's specific search, e.g
 
 ```
@@ -94,7 +94,7 @@ Scratch
 Would redirect you to Google, which has "Scratch" in its query box.
 
 
-#### 3b2. Wikipedia Tags
+#### 2c2. Wikipedia Tags
 You can use the [wp][/wp] tags to link to the wikipedia page of the text inbetween the tags, e.g
 ```
 [wp]
@@ -103,7 +103,7 @@ Scratch (programming language)
 ```
 would redirect you to scratch's wikipedia page, which should be [this](//en.wikipedia.org/wiki/Scratch_(programming_language))
 
-#### 3b3. Scratch Wiki Tags
+#### 2c3. Scratch Wiki Tags
 You can use the [wp][/wp] tags to link to the scratch wiki page of the text inbetween the tags, e.g
 ```
 [wp]
@@ -134,4 +134,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+_This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!_
