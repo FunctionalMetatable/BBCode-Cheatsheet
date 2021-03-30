@@ -80,9 +80,42 @@ You can link things to other websites in the forums. The tag to do this is:
 ```
 would become [My GitHub Page](//functionalmetatable.github.io)
 
-##
+### 3b. Google, Wikipedia and Wiki Tags.
+_credit to [Basic88](https://scratch.mit.edu/users/Basic88) for these tags_
 
-## Contributors ✨
+#### 3b1. Google Tags
+You can use the [google][/google] tag to link to a google search. The text between the two tags will link to the word's specific search, e.g
+
+```
+[google]
+Scratch
+[/google]
+``` 
+Would redirect you to Google, which has "Scratch" in its query box.
+
+
+#### 3b2. Wikipedia Tags
+You can use the [wp][/wp] tags to link to the wikipedia page of the text inbetween the tags, e.g
+```
+[wp]
+Scratch (programming language)
+[/wp]
+```
+would redirect you to scratch's wikipedia page, which should be [this](//en.wikipedia.org/wiki/Scratch_(programming_language))
+
+#### 3b3. Scratch Wiki Tags
+You can use the [wp][/wp] tags to link to the scratch wiki page of the text inbetween the tags, e.g
+```
+[wp]
+Scratch 3.0
+[/wp]
+```
+would redirect you to scratch 3.0's wiki page, which should be [this](//en.scratch-wiki.info/wiki/Scratch_3.0)
+
+
+
+
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
