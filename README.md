@@ -1,6 +1,6 @@
 # Welcome to the BBCode cheatsheet!
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is currently maintained by [FunctionalMetatable](//github.com/FunctionalMetatable) ([9gr](//scratch.mit.edu/users/9gr) on Scratch). Hope you enjoy!
 Contributions are welcome!
@@ -92,6 +92,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Basic8"><img src="https://avatars.githubusercontent.com/u/79813647?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Basic88</b></sub></a><br /><a href="https://github.com/FunctionalMetatable/BBCode-Cheatsheet/commits?author=basic8" title="Documentation">📖</a> <a href="#ideas-basic8" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://scratch.mit.edu/users/9gr"><img src="https://avatars.githubusercontent.com/u/67440879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>9gr</b></sub></a><br /><a href="https://github.com/FunctionalMetatable/BBCode-Cheatsheet/commits?author=FunctionalMetatable" title="Documentation">📖</a> <a href="#ideas-FunctionalMetatable" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
