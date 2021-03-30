@@ -104,11 +104,11 @@ Scratch (programming language)
 would redirect you to scratch's wikipedia page, which should be [this](//en.wikipedia.org/wiki/Scratch_(programming_language))
 
 #### 2c3. Scratch Wiki Tags
-You can use the [wp][/wp] tags to link to the scratch wiki page of the text inbetween the tags, e.g
+You can use the [wiki][/wiki] tags to link to the scratch wiki page of the text inbetween the tags, e.g
 ```
-[wp]
+[wiki]
 Scratch 3.0
-[/wp]
+[/wiki]
 ```
 would redirect you to scratch 3.0's wiki page, which should be [this](//en.scratch-wiki.info/wiki/Scratch_3.0)
 
