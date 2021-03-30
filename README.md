@@ -2,8 +2,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-This is currently maintained by [FunctionalMetatable](//github.com/FunctionalMetatable) ([9gr](//scratch.mit.edu/users/9gr) on Scratch). Hope you enjoy!
 Contributions are welcome!
+This is currently in development.
 
 ## 1. The basics
 This is the section for Bold, Italics, and Strikethrough.
