@@ -83,7 +83,7 @@ would become [My GitHub Page](//functionalmetatable.github.io)
 
 _credit to [Basic88](https://scratch.mit.edu/users/Basic88) for the below tags_
 
-#### 2c1. Google Tags
+### 2c. Google Tags
 You can use the [google][/google] tag to link to a google search. The text between the two tags will link to the word's specific search, e.g
 
 ```
@@ -93,8 +93,7 @@ Scratch
 ``` 
 Would redirect you to Google, which has "Scratch" in its query box.
 
-
-#### 2c2. Wikipedia Tags
+### 2d. Wikipedia Tags
 You can use the [wp][/wp] tags to link to the wikipedia page of the text inbetween the tags, e.g
 ```
 [wp]
@@ -103,7 +102,7 @@ Scratch (programming language)
 ```
 would redirect you to scratch's wikipedia page, which should be [this](//en.wikipedia.org/wiki/Scratch_(programming_language))
 
-#### 2c3. Scratch Wiki Tags
+### 2e. Scratch Wiki Tags
 You can use the [wiki][/wiki] tags to link to the scratch wiki page of the text inbetween the tags, e.g
 ```
 [wiki]
