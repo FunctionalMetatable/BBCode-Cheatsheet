@@ -76,7 +76,7 @@ would show the image the link has.
 You can link things to other websites in the forums. The tag to do this is:
 
 ```
-[url=functionalmetatable.github.io]My GitHub Page
+[url=functionalmetatable.github.io]My GitHub Page[/url]
 ```
 would become [My GitHub Page](//functionalmetatable.github.io)
 
