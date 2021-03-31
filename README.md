@@ -87,8 +87,8 @@ _credit to [Basic88](https://scratch.mit.edu/users/Basic88) for the below tags_
 You can use the [google][/google] tag to link to a google search. The text between the two tags will link to the word's specific search, e.g
 
 ```
-[google]
-Scratch
+[google=Scratch]
+Sample Text
 [/google]
 ``` 
 Would redirect you to Google, which has "Scratch" in its query box.
@@ -96,8 +96,8 @@ Would redirect you to Google, which has "Scratch" in its query box.
 ### 2d. Wikipedia Tags
 You can use the [wp][/wp] tags to link to the wikipedia page of the text inbetween the tags, e.g
 ```
-[wp]
-Scratch (programming language)
+[wp=Scratch (programming language)]
+Sample Text
 [/wp]
 ```
 would redirect you to scratch's wikipedia page, which should be [this](//en.wikipedia.org/wiki/Scratch_(programming_language))
@@ -105,8 +105,8 @@ would redirect you to scratch's wikipedia page, which should be [this](//en.wiki
 ### 2e. Scratch Wiki Tags
 You can use the [wiki][/wiki] tags to link to the scratch wiki page of the text inbetween the tags, e.g
 ```
-[wiki]
-Scratch 3.0
+[wiki=Scratch 3.0]
+Sample Text
 [/wiki]
 ```
 would redirect you to scratch 3.0's wiki page, which should be [this](//en.scratch-wiki.info/wiki/Scratch_3.0)
